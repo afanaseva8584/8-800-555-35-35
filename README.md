@@ -39,4 +39,5 @@
 		<hr>
 		<center><h1>РАДУЙТЕСЬ</h1></center>
 		<center><h1>УДАЧНОГО КРЕДИТА</h1></center>
+	</body>
 </html>
